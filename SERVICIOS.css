@@ -1,0 +1,151 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 899px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 401px;
+  margin: 61px auto 0;
+}
+
+.u-section-1 .u-list-1 {
+  width: 1296px;
+  margin: 64px auto 60px -45px;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-gap: 10px 10px;
+  grid-auto-columns: calc(50% - 5px);
+  grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+  min-height: 621px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 10px 26px 10px 10px;
+}
+
+.u-section-1 .u-text-2 {
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: 0;
+  font-style: italic;
+}
+
+.u-section-1 .u-text-3 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 10px 26px 10px 10px;
+}
+
+.u-section-1 .u-text-4 {
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: 0;
+  font-style: italic;
+}
+
+.u-section-1 .u-text-5 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 10px 26px 10px 10px;
+}
+
+.u-section-1 .u-text-6 {
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: 0;
+  font-style: italic;
+}
+
+.u-section-1 .u-text-7 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 10px 26px 10px 10px;
+}
+
+.u-section-1 .u-text-8 {
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: 0;
+  font-style: italic;
+}
+
+.u-section-1 .u-text-9 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-list-1 {
+    width: 940px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 5px));
+    min-height: 452px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-list-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: calc(100% - 0px);
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: 100%;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 340px;
+  }
+}
